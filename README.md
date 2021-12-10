@@ -1,0 +1,2 @@
+运行前需要配置mysql数据库,
+在application.yml中修改
